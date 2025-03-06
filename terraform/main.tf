@@ -29,4 +29,3 @@ resource "aws_instance" "bastion" {
 
   associate_public_ip_address = false
 }
-
