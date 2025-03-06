@@ -7,7 +7,8 @@ docker build -t pythonapp .
 docker run -d -p 80:80 pythonapp
 
 Terraform folder 
-an existin vpc, public subnet and sg
+
+an existing vpc, public subnet and sg
 these things are retrieved in data of terraform
 vpc id, sg id, subnet name
 
