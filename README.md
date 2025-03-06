@@ -3,6 +3,7 @@
 App folder
 
 docker build -t pythonapp .
+
 docker run -d -p 80:80 pythonapp
 
 Terraform folder 
